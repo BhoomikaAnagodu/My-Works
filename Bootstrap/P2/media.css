@@ -1,0 +1,145 @@
+@media(max-width:760px ){
+    .Align{
+        text-align: center;
+        padding-right: 10px;
+    }
+    .Align h3{
+        font-size: 18px;
+        font-weight: bolder;
+    }
+    .Align h4{
+        font-size: 16px;
+    }
+    .background{
+        background: white;
+    }
+    .banner1{
+        background: rgb(236, 235, 235);
+    }
+    .row1 img{
+        position: relative;
+        top: -2px;
+        left: 35px;
+        width: 80%;
+    }
+    .padding{
+        margin: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    table tr{
+        background: rgb(238, 236, 236);
+    }
+    .well{
+        background: white;
+        margin: 1px !important;
+        margin-bottom: 10px !important;
+    }
+    #hide{
+        visibility: hidden;
+        display: none;
+    }
+    .padding h3{
+        font-size: 2em;
+    }
+    .padding h4{
+        font-size: 22px;
+    }
+    .container1{
+        padding: 20px;
+    }
+    .heading{
+        padding: 5px;
+        position: relative;
+        left: 5px;
+    }
+    .heading h3{
+        font-size: 3em;
+        font-weight: bolder;
+    }
+    .heading h4{
+        font-size: 18px;
+        padding-left: 2px;
+        padding-bottom: 10px;
+    }
+    #link h4{
+        font-size: 22px;
+        text-decoration: underline;
+    }
+    #link h5{
+        font-size: 18px;
+    }
+    #margin{
+        position: relative;
+        top: 10px !important;
+    }
+}
+
+@media(min-width:761px ){
+    .Align{
+        text-align: initial;
+        padding-right: 50px;
+    }
+    .background{
+        background: white;
+    }
+    .banner1{
+        background:white;
+    }
+    .row1 img{
+        position: relative;
+        width: 120%;
+        top: 50px;
+        left: -10px;
+    }
+    .padding{
+        padding: 10px;
+        margin: 10px;
+    }
+    .heading{
+        padding: 5px;
+        position: relative;
+        left: 10px;
+    }
+    
+    .heading h3{
+        font-size: 5em;
+        font-weight: bolder;
+    }
+    .heading h4{
+        font-size: 20px;
+        padding-left: 2px;
+        padding-bottom: 10px;
+    }
+}
+
+@media(min-width:1024px){
+    .Align{
+        text-align: initial;
+        padding-right: 50px;
+    }
+    .background{
+        background: white;
+    }
+    .banner1{
+        background:white;        
+    }
+    .heading{
+        padding: 20px;
+        position: relative;
+        left: 60px;
+    }
+    
+    .heading h3{
+        font-size: 7em;
+        font-weight: bolder;
+    
+    }
+    .heading h4{
+        font-size: 2em;
+        padding-left: 5px;
+        padding-bottom: 10px;
+    }
+}

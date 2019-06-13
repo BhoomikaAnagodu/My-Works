@@ -1,0 +1,154 @@
+.banner{
+    width: 100%;
+    height: auto;
+    background: rgb(18, 170, 221);
+    padding: 10px;
+}
+
+.banner .jumbotron{
+    background: rgb(18, 170, 221);
+}
+.row1{
+    margin: 1px;
+    border-color: white;
+    border: none !important;
+    outline: none !important;
+}
+.row1 img{
+    position: relative;
+    top: 10px;
+    left: -10px;
+    padding: 10px;
+}
+.Align{
+    text-align: initial;
+    padding-right: 50px;
+}
+.Align h3{
+    font-size: 2em;
+}
+.Align h5, .container1 h6{
+    font-weight: 3em;
+    color: rgb(18, 170, 221);
+}
+.Align h4{
+    font-size: 18px;
+}
+.background{
+    background: white;
+}
+.well{
+    background: white !important;
+    margin: 10px;
+}
+.banner1{
+    background: white;
+}
+.btn-lg{
+    margin-bottom: 20px;
+}
+.container1 .well{
+    height: 400px;
+}
+.container1{
+    padding: 40px;
+}
+.padding h4, .heading h4, .Align h5, h4, .container1 h5,h6, #link{
+    font-family: 'Neuton', serif;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.padding h3, .heading h3, .Align h3, .btn{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.padding{
+    padding: 20px;
+    margin: 10px;
+}
+.padding h3{
+    font-size: 3em;
+    font-weight: bolder;
+}
+.padding h4{
+    font-size: 23px;
+}
+.heading{
+    color: white;
+    padding: 20px;
+    position: relative;
+    left: 60px;
+}
+.fa-caret-down{
+    font-size: 40px;
+}
+.heading h3{
+    font-size: 7em;
+    font-weight: bolder;
+
+}
+.heading h4{
+    font-size: 2em;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+.Inline{
+    display: flex !important;
+}
+#up{
+    position: relative;
+    top: -5px;
+    left: 10px;
+}
+.Inline img{
+    position: relative;
+    top: 8px;
+    left: -40px;
+}
+.Inline i{
+    font-size: 35px;
+}
+#link{
+    color: black;
+}
+#pad{
+    padding: 20px;
+}
+#link h4{
+    font-size: 22px;
+    text-decoration: underline;
+}
+.hover{
+    position: relative;
+    top: -10px;
+}
+#position{
+    position: relative;
+    top: -20px !important;
+    left: 40px !important;
+}
+#right{
+    position: relative;
+    left: -35px;
+}
+#link:hover > .hover h4{
+   color: rgb(236, 89, 62);
+   cursor: pointer;
+}
+#link h5{
+    font-size: 18px;
+}
+#link h6{
+    font-size: 1em;
+}
+#clr{
+    color: rgb(167, 164, 164);
+}
+.well{
+    background: rgb(233, 233, 233);
+}
+#margin{
+    position: relative;
+    top: 1px;
+}
