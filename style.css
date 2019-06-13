@@ -1,0 +1,15 @@
+.img-responsive{
+    height: 400px !important;
+}
+
+.thumbnail{
+    width: 400px;
+    position: relative;
+    left: 15px;
+    box-shadow: 0px 4px 8px 0px white, 0px 2px 18px 0px rgb(158, 157, 157);
+}
+
+.btn{
+    position: relative;
+    left: 125px;
+}
